@@ -1,0 +1,32 @@
+variable_name,english_label,spanish_label,response_options_or_format,missing_value_convention
+response_date,response date,Fecha de respuesta,YYYY-MM-DD; exact timestamps removed from the public file,Not applicable/none expected in cleaned file
+age_years,age years,Edad en años,"Numeric years; valid range 15-60, otherwise missing",Blank field/NA
+gender,gender,Género,Male; Female; Prefer not to say,Blank field/NA only if not available
+non_local_student,non-local student,Estudiante foráneo,Yes; No,Blank field/NA
+current_university_condition,current university condition,Condición actual en la vida universitaria,Full-time student; Study and work,Blank field/NA
+receives_university_support,receives university support,Recibe apoyo de la universidad,Yes; No,Blank field/NA
+academic_program,academic program,Programa académico,14 academic programs in Spanish as listed in the sampling frame,Blank field/NA
+current_program_term,current program term,Semestre o matrícula actual,1-12; More than 12,Blank field/NA
+cumulative_gpa_papa,cumulative GPA/PAPA,PAPA acumulado,Numeric from 0.0 to 5.0; missing when unavailable or non-interpretable,Blank field/NA
+independent_study_time,independent study time,Tiempo de estudio independiente,0-1; 1-2; 2-3; 3-4; 4-5; More than 5,Blank field/NA
+organizes_notes_before_tests,organizes notes before tests,Organiza apuntes antes de evaluaciones,Never; Rarely; Occasionally; Almost always; Always,Blank field/NA
+study_method_effectiveness,study method effectiveness,Efectividad del método de estudio,Not effective at all; Slightly effective; Neutral; Effective; Very effective,Blank field/NA
+uses_supplementary_resources,uses supplementary resources,Usa recursos complementarios,Never; Rarely; Occasionally; Almost always; Always,Blank field/NA
+procrastination_frequency,procrastination frequency,Frecuencia de procrastinación,Never; Rarely; Occasionally; Almost always; Always,Blank field/NA
+study_groups_or_tutoring,study groups or tutoring,Grupos de estudio o tutorías,Never; Rarely; Occasionally; Almost always; Always,Blank field/NA
+self_rated_academic_performance,self-rated academic performance,Rendimiento académico autopercibido,Poor; Fair; Good; Outstanding; Excellent,Blank field/NA
+satisfaction_with_grades,satisfaction with grades,Satisfacción con las calificaciones,Never; Rarely; Occasionally; Almost always; Always,Blank field/NA
+career_satisfaction_affects_motivation,career satisfaction affects motivation,Satisfacción con la carrera y motivación,Never; Rarely; Occasionally; Almost always; Always,Blank field/NA
+program_meets_expectations,program meets expectations,La carrera cumple expectativas,Never; Rarely; Occasionally; Almost always; Always,Blank field/NA
+ai_tools_raw,AI tools raw,IA utilizadas (texto libre),Free-text multi-response field,Blank field/NA only if no entry recorded
+ai_tools_standardized,AI tools standardized,IA estandarizadas,Semicolon-delimited standardized tool families,Blank field/NA when no tool could be standardized
+n_ai_tools,number of AI tools,Número de IA reportadas,Integer count derived from ai_tools_standardized,0 when no standardized tool is available
+ai_use_frequency_for_study,AI use frequency for study,Frecuencia de uso de IA en el estudio,Never; Rarely; Occasionally; Almost always; Always,Blank field/NA
+ai_helped_understand_topics,AI helped understand topics,La IA ayudó a comprender temas,Definitely no; Probably no; Neutral; Probably yes; Definitely yes,Blank field/NA
+ai_use_in_academic_tasks_is_fraud,AI use in academic tasks is fraud,El uso de IA es fraude,Strongly disagree; Disagree; Undecided; Agree; Strongly agree,Blank field/NA
+failed_evaluated_activity_due_to_ai,failed evaluated activity due to AI,Perdió actividades evaluativas por IA,Yes; No,Blank field/NA
+verifies_work_with_ai_after_completion,verifies work with AI after completion,Verifica trabajos con IA,Never; Rarely; Occasionally; Almost always; Always,Blank field/NA
+perceived_ai_dependence,perceived AI dependence,Dependencia percibida de IA,Not at all; Probably not; Not sure; Probably yes; A lot,Blank field/NA
+perceived_creativity_reduction_from_ai,perceived creativity reduction from AI,Reducción percibida de creatividad,Not at all; Probably not; Not sure; Probably yes; A lot,Blank field/NA
+prompt_engineering_knowledge,prompt engineering knowledge,Conocimiento de ingeniería de prompts,Not at all; Probably not; Not sure; Probably yes; A lot,Blank field/NA
+uses_ai_for_nonacademic_activities,uses AI for non-academic activities,Usa IA para actividades no académicas,Yes; No,Blank field/NA

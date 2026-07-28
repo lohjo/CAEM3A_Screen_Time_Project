@@ -1,0 +1,30 @@
+question_code,section,spanish_question,english_question
+Temporality,Sociodemographic and academic profile,Marca temporal,Response timestamp
+Q1,Sociodemographic and academic profile,Edad en años (por favor solo colocar número),Age in years (please enter numbers only)
+Q2,Sociodemographic and academic profile,Género,Gender
+Q3,Sociodemographic and academic profile,¿Es usted foráneo?. Nota: que vien de otras ciudades a estudiar a la sede Manizales,Are you a non-local student? Note: students who moved from another city to study at the Manizales campus.
+Q4,Sociodemographic and academic profile,¿Cómo es tu condición actual en la vida universitaria?,What is your current university situation?
+Q5,Sociodemographic and academic profile,"¿Cuentas con algún apoyo por parte de la universidad (alimentación, transporte, vivienda, materiales de estudio, entre otros)?","Do you receive any support from the university (food, transportation, housing, study materials, among others)?"
+Q6,Sociodemographic and academic profile,¿Cuál de las siguientes carrera que estudias en la Sede Manizales?,Which of the following degree programs are you studying at the Manizales campus?
+Q7,Sociodemographic and academic profile,¿Cuál es tu matrícula o número de matrícula en la carrera que estudias,What is your current term or semester in the degree program you are studying?
+Q8,Sociodemographic and academic profile,"¿Cuál es tu PAPA? (Por favor solo colocar número separado con coma. Por ejemplo: 4,5)","What is your cumulative GPA/PAPA? (Please enter numbers only, using a decimal separator such as 4.5.)"
+Q9,Study habits,"¿Cuántas horas semanales, en promedio, dedica al estudio independiente?","On average, how many hours per week do you devote to independent study?"
+Q10,Study habits,"¿Con qué frecuencia organiza, revisa sus apuntes y materiales de estudio antes de evaluaciones cortas o parciales?",How often do you organize and review your notes and study materials before quizzes or midterm exams?
+Q11,Study habits,"¿Qué tan efectivo considera que es su método de estudio para comprender, retener la información o preparar una evaluación?","How effective do you consider your study method for understanding, retaining information, or preparing for an assessment?"
+Q12,Study habits,"¿Con qué frecuencia utiliza recursos complementarios (bibliografía extra, videos educativos, tutoriales, IA's) para reforzar sus estudios?","How often do you use supplementary resources (extra bibliography, educational videos, tutorials, AI tools) to reinforce your studies?"
+Q13,Study habits,¿Con qué frecuencia pospone actividades académicas importantes (procrastinación)?,How often do you postpone important academic activities (procrastination)?
+Q14,Study habits,¿Con qué frecuencia participa en grupos de estudio o asiste a tutorías/asesorías?,How often do you participate in study groups or attend tutoring/advising sessions?
+Q15,Academic self-perception and satisfaction,¿Cómo calificaría su rendimiento académico en el último semestre cursado?,How would you rate your academic performance in the most recent completed semester?
+Q16,Academic self-perception and satisfaction,¿Con qué frecuencia se siente satisfecho con sus calificaciones o logros académicos?,How often do you feel satisfied with your grades or academic achievements?
+Q17,Academic self-perception and satisfaction,¿En qué medida considera que su satisfacción con la carrera impacta su motivación para estudiar o su rendimiento?,To what extent do you think your satisfaction with your degree program affects your motivation to study or your performance?
+Q18,Academic self-perception and satisfaction,¿En qué medida considera que la carrera que cursa cumple con sus expectativas o metas profesionales?,To what extent do you think the degree program you are enrolled in meets your expectations or professional goals?
+Q19,AI tools and use patterns,¿Cuáles son las IA’S que has utilizado?,Which AI tools have you used?
+Q20,AI tools and use patterns,¿Con qué frecuencia haces uso de las IA's en los estudios?,How often do you use AI tools in your studies?
+Q21,AI tools and use patterns,¿Consideras que la IA le ha permitido comprender temas académicos?,Do you think AI has helped you understand academic topics?
+Q22,Ethics and academic integrity,¿Consideras que el usar IA's en la elaboración de actividades académicas es un fraude?,Do you think using AI tools to produce academic assignments is fraud?
+Q23,Ethics and academic integrity,¿Has perdido o desaprobado actividades evaluativas por el uso de IA?,Have you failed or not passed assessed activities because of AI use?
+Q24,AI tools and use patterns,¿Sueles verificar tus trabajos con IA’s una vez terminados?,Do you usually verify your work with AI after you finish it?
+Q25,"Perceived dependence, creativity, and AI literacy",¿Crees o consideras que generas dependencia al uso de las IA's?,Do you think you are becoming dependent on the use of AI tools?
+Q26,"Perceived dependence, creativity, and AI literacy",¿Consideras que el uso de IA's ha reducido tu creatividad al realizar actividades académico?,Do you think the use of AI has reduced your creativity when carrying out academic activities?
+Q27,"Perceived dependence, creativity, and AI literacy",¿Consideras que posees conocimientos sobre ingeniería de prompts? (La ingeniería de prompts se refiere al diseño estratégico de instrucciones o preguntas con el fin de obtener respuestas óptimas de los modelos de inteligencia artificial),Do you think you have knowledge of prompt engineering? (Prompt engineering refers to the strategic design of instructions or questions to obtain optimal responses from AI models.)
+Q28,AI tools and use patterns,¿Usas la IA para consultas o actividades diferentes a lo académico?,Do you use AI for questions or activities other than academic ones?
